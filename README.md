@@ -18,7 +18,7 @@ If you need help about something or you don't understand something, feel free to
 | Exam00       |  30%        |  ✔️    |
 | Exam01       |  50%        |  ✔️    |
 | Exam02       |  60%        |  ✔️    |
-| Final Exam   |  54%        |  ✔️    |
+| Final Exam   |  54%        |  ✔️    |<br/>
 
 
 >[!IMPORTANT]
