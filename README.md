@@ -1,5 +1,7 @@
 # 42 Piscine
 This is all the exercices that I did in 42 school.
+[!IMPORTANT]
+>Do not copy my exercices only use it to help you learn.
 
 # Projects list:
 | Project      | Grade       |
