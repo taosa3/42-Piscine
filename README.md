@@ -20,5 +20,5 @@ If you need help about something or you don't understand something, feel free to
 | Exam02       |  60%        |  ✔️    |
 | Final Exam   |  54%        |  ✔️    |
 <br/>
->[!IMPORTANT]
+>[!IMPORTANT]<br/>
 >Do not copy my exercices only use it to help you learn.
