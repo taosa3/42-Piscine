@@ -1,2 +1,2 @@
-# 42-Piscine
-All my 42 piscine exs
+# 42 Piscine
+This is all the exercices that I did in 42 school.
