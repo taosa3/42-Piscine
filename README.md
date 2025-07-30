@@ -1,8 +1,6 @@
 # 42 Piscine
 This is all the exercices that I did in 42 school.
-
->[!IMPORTANT]
->Do not copy my exercices only use it to help you learn.
+If you need help about something or you don't understand something, feel free to reach me on my [!email](tafonso@student.42lisboa.com)
 
 # Projects list:
 | Project      | Grade       | Passed? |
@@ -21,3 +19,6 @@ This is all the exercices that I did in 42 school.
 | Exam01       |  50%        |  ✔️    |
 | Exam02       |  60%        |  ✔️    |
 | Final Exam   |  54%        |  ✔️    |
+
+>[!IMPORTANT]
+>Do not copy my exercices only use it to help you learn.
