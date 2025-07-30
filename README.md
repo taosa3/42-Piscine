@@ -19,6 +19,7 @@ If you need help about something or you don't understand something, feel free to
 | Exam01       |  50%        |  ✔️    |
 | Exam02       |  60%        |  ✔️    |
 | Final Exam   |  54%        |  ✔️    |
-<br/>
->[!IMPORTANT]<br/>
+
+
+>[!IMPORTANT]
 >Do not copy my exercices only use it to help you learn.
