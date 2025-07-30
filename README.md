@@ -1,6 +1,6 @@
 # 42 Piscine
-This is all the exercices that I did in 42 school.
-If you need help about something or you don't understand something, feel free to reach me on my [!email](tafonso@student.42lisboa.com)
+This is all the exercices that I did in 42 school.<br/>
+If you need help about something or you don't understand something, feel free to reach me on my [email](tafonso@student.42lisboa.com)
 
 # Projects list:
 | Project      | Grade       | Passed? |
